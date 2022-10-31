@@ -1,0 +1,87 @@
+body{
+  background-color: hsl(30, 38%, 92%);
+}
+.container{
+  height:600px;
+  width:700px;
+  margin-right:auto;
+  margin-left:auto;
+ margin-top:10%;
+  border-radius:10px;
+  margin-bottom: 10%;
+
+
+}
+.product-img{
+  height:600px;
+  width:100%;
+  margin-left:0;
+  border-radius:10px 0 0 10px;
+}
+.c1{
+  padding-left: 0;
+  padding-right: 0;
+}
+.c2{
+  padding:15px;
+  margin-top:25px;
+}
+.product{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing:6px;
+}
+.heading{
+  font-family: 'Fraunces', serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.1;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+
+
+}
+.product-info{
+  width:80%;
+}
+.about{
+  color:grey;
+
+}
+.current-price{
+  font-family: 'Poor Story', cursive;
+  font-weight: bold;
+  color:hsl(158, 36%, 37%);
+  font-size: 3rem;
+  margin-right: 25px;
+}
+.older-price{
+
+  color:grey;
+  text-decoration: line-through;
+}
+.mybtn{
+  width:90%;
+margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.my-button{
+  height:60px;
+  width:100%;
+border:none;
+  background-color: hsl(158, 36%, 37%);
+color:white;
+border-radius: 10px;
+}
+.my-button:hover{
+background-color: #023020;
+color:white;
+}
+.fa-solid{
+  padding:10px;
+}
+.c22{
+  background-color: hsl(0, 0%, 100%);
+}
